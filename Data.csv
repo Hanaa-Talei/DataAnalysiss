@@ -1,0 +1,11 @@
+Source,Destination,Distance
+Anchorage,Billings,4
+Anchorage,Corvalis,2
+Anchorage,Edmonton,15
+Billings,Denver,1
+Billings,Edmonton,10
+Corvalis,Denver,5
+Denver,Edmonton,3
+Denver,Flagstaff,0
+Flagstaff,Houston,4
+Grand Rapid,Houston,4
